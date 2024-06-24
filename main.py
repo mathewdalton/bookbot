@@ -1,3 +1,5 @@
+#!/bin/python3
+
 def main():
     # Retrieve book text as list of strings
     filepath = "books/frankenstein.txt"
