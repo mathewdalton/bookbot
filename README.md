@@ -1,2 +1,2 @@
 # bookbot
-Boot.dev my first practice project
+Boot.dev my first project
